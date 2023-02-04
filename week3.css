@@ -1,0 +1,20 @@
+.header {
+    font-weight: bold;
+}
+
+#link {
+    color: midnightblue;
+}
+
+img {
+    display: inline;
+    width: 75vh;
+}
+
+#paragraphs {
+    background-color: rgb(59, 136, 162);
+}
+
+body {
+    background-color: rgb(158, 218, 214);
+}
